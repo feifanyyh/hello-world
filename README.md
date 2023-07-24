@@ -1,6 +1,6 @@
 # hello-world
-just another repository
+Just another repository
 
-just for testing
+Just for testing
 
 
